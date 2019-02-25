@@ -1,6 +1,6 @@
 void example()
 {
-	char* anames[] = { "scrypt", "x11", "quark" };
+	char *anames[] = { "scrypt", "x11", "quark" };
 	double factors[] = { 1, 7, 6 };
 	int port_out;
 
